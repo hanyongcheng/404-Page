@@ -1,0 +1,44 @@
+// COLORS & THEMES
+$white: #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black: #000;
+
+$blue: #228be6;
+$indigo: #7950f2;
+$purple: #be4bdb;
+$pink: #e64980;
+$red: #fa5252;
+$orange: #fd7e14;
+$yellow: #fab005;
+$green: #40c057;
+$teal: #12b886;
+$cyan: #15aabf;
+
+$primary: $red;
+$secondary: $gray-600;
+$success: $green;
+$info: $blue;
+$warning: $yellow;
+$danger: $red;
+$light: $gray-100;
+$dark: $gray-800;
+
+$colors: (); // Use this to add any colors to bootstrap.
+$theme-colors: (); // Use this to add any theme colors to bootstrap. (primary, danger, success, etc..)
+
+// SPACES & SIZES
+$spacers: (); // Use this to add any spaces to bootstrap. ("mt-*", "pt-*", etc etc)
+$sizes: (); // Use this to add any sizes to bootstrap. ("w-*", "h-*")
+
+
+// BODY
+$body-bg: #e2e8f0;
+$body-color: $gray-900;
